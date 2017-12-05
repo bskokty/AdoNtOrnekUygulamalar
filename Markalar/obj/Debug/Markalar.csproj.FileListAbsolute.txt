@@ -1,0 +1,92 @@
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\ApplicationInsights.config
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\csc.exe
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\vbc.exe
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Markalar.dll.config
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Markalar.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Markalar.pdb
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.Web.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Helpers.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Mvc.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Razor.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.Razor.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.Web.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Razor.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Webpages.Razor.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Helpers.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\bin\System.Web.Mvc.xml
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\obj\Debug\Markalar.csprojResolveAssemblyReference.cache
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\obj\Debug\Markalar.dll
+C:\Users\ozan\Desktop\pasaaak ödev\Markalar\Markalar\obj\Debug\Markalar.pdb
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\ApplicationInsights.config
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\csc.exe
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\System.Collections.Immutable.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\vbc.exe
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\VBCSCompiler.exe
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\roslyn\VBCSCompiler.exe.config
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Markalar.dll.config
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Markalar.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Markalar.pdb
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.DependencyCollector.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.Web.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.WindowsServer.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.ApplicationInsights.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.Web.Infrastructure.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Helpers.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Mvc.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Razor.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.Deployment.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.Razor.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.DependencyCollector.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.Web.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.AI.WindowsServer.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.ApplicationInsights.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Razor.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.Deployment.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Webpages.Razor.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Helpers.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\bin\System.Web.Mvc.xml
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\obj\Debug\Markalar.csprojResolveAssemblyReference.cache
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\obj\Debug\Markalar.dll
+E:\Arı Bilgi Notları\Ödevler\Ado Ödev 1\Markalar\Markalar\obj\Debug\Markalar.pdb

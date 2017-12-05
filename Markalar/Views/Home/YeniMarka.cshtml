@@ -1,0 +1,73 @@
+﻿@model Markalar.Models.Marka
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Yeni Marka</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+
+    @using (@Html.BeginForm())
+    {
+
+        @*@Html.Label("Ad :")*@
+        @*@Html.TextBox("name")*@
+
+
+        @Html.LabelFor(t => t.FirmaAdi)
+        @Html.TextBoxFor(t => t.FirmaAdi)
+
+        <br />
+
+        @*@Html.Label("soyad")
+            @Html.TextBox("surname")*@
+
+
+        @Html.LabelFor(t => t.Aciklamasi)
+        @Html.TextBoxFor(t => t.Aciklamasi)
+
+
+        <br />
+
+        <input type="submit" value=@(Model == null ? "Kaydet" : "Güncelle")/>
+     @*@{
+            if (Model == null)
+            {
+            <input type="submit" value="Kaydet" />
+            }else
+            {
+            <input type="submit" value="Güncelle" />
+        }
+
+        }*@
+               @*
+                    ----@(Model==null? "Kaydet" : "Güncelle")------
+
+                    if(Model!=null)
+        {
+                        <input type="submit" value="Güncelle" />
+                    }else
+        {
+
+                       <input type="submit" value="Kaydet" />
+
+                    }*@
+               }
+
+
+   
+
+
+
+</body>
+</html>
+
+
